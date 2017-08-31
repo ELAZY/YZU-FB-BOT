@@ -56,5 +56,3 @@ typings/
 
 # dotenv environment variables file
 .env
-$ cd node/
-$ npm install
